@@ -1,0 +1,24 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "tsc": "tsc",
+    "clean": "rimraf out",
+    "build": "npm run tsc --",
+    "watch": "npm run tsc -- -w"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.3",
+    "@types/react-dom": "^16.8.1",
+    "@types/react-native": "^0.57.36",
+    "concurrently": "^4.1.0",
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "^0.57.0",
+    "rimraf": "^2.6.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}

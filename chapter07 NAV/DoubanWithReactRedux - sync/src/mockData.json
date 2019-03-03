@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "key":"0",
+      "title": "React Native",
+      "abstract": "Build Native Mobile Apps using JavaScript and React",
+      "url": "https://facebook.github.io/react-native",
+      "byline": "By Facebook",
+      "published_date": "2016-05-20T00:00:00-5:00",
+      "geo_facet": [
+        "Menlo Park, California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550241908401&di=2b004563ec085ab28debec88a86d3335&imgtype=0&src=http%3A%2F%2Fwww.lgstatic.com%2Fthumbnail_300x300%2Fi%2Fimage%2FM00%2F4B%2FC0%2FCgqKkVegU46AFq2QAAAZP6dkpJw873.png",
+          "format": "thumbLarge"
+        }
+      ]
+    },
+    {
+      "key":"1",
+      "title": "Packt Publishing",
+      "abstract": "Stay Relevant",
+      "url": "https://www.baidu.com/",
+      "byline": "By Packt Publishing",
+      "published_date": "2016-05-20T00:00:00-5:00",
+      "geo_facet": [
+        "Birmingham, UK"
+      ],
+      "multimedia": [
+        {
+          "url": "https://www.packtpub.com/sites/default/files/packt_logo.png",
+          "format": "thumbLarge"
+        }
+      ]
+    }
+  ]
+}

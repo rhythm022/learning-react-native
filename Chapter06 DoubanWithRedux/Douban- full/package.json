@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "tsc": "tsc",
+    "clean": "rimraf out",
+    "build": "rimraf out && npm run tsc --",
+    "watch": "npm run tsc -- -w"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.3",
+    "@types/react-native": "^0.57.36",
+    "@types/react-navigation": "^3.0.3",
+    "@types/react-redux": "^7.0.1",
+    "@types/redux": "^3.6.0",
+    "@types/redux-logger": "^3.0.7",
+    "@types/redux-promise": "^0.5.28",
+    "expo": "^32.0.0",
+    "moment": "^2.24.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.3.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.6.0",
+    "reselect": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
